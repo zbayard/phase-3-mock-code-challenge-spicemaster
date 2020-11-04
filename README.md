@@ -28,7 +28,7 @@ GET /spiceblends/1
     "id": 1,
     "title": "Pumpkin Spice",
     "image": "./assets/spices/pumpkinspicelatte.jpg",
-    "spices": [
+    "ingredients": [
         {
             "id": 1,
             "name": "Cinnamon",
@@ -132,7 +132,7 @@ GET /spiceblends/:id
   "id": 1,
   "title": "Pumpkin Spice",
   "image": "./assets/spices/pumpkinspicelatte.jpg",
-  "spices": [
+  "ingredients": [
     {
       "id": 1,
       "name": "Cinnamon",
